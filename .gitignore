@@ -1,0 +1,5 @@
+.env
+Data/
+venv/
+confluence_data.json
+.idea/
